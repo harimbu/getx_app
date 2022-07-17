@@ -7,6 +7,9 @@ A new Flutter project.
 url
 https://jsonplaceholder.typicode.com/posts
 
+
+## getx controller
+
 ```
 class HomeController extends GetxController {
   List<Post> postsList = [];
